@@ -1,0 +1,180 @@
+*** North Day 16 *** (Tuesday)
+Opening at FNCD North... (current budget $1679452)
+*** South Day 16 *** (Tuesday)
+Opening at FNCD South... (current budget $2427313)
+Purchased Broken Dirty LIMO for $85209
+Washing at FNCD North...
+Intern washing with Detailed wash behavior
+Intern washed HYBRID Hybrid_2 and made it Clean
+Intern washing with Detailed wash behavior
+Intern washed MONSTER_TRUCK MonsterTruck_12 and made it Clean
+Intern washing with Chemical wash behavior
+Level of cleanliness did not change...
+Intern washing with Chemical wash behavior
+Level of cleanliness did not change...
+Intern washing with Chemical wash behavior
+Intern washed CAR Car_3 and made it Sparkling (earned $15 bonus)
+Intern washing with Chemical wash behavior
+Intern washed HYBRID Hybrid_1 and made it Sparkling (earned $25 bonus)
+Washing at FNCD South...
+Intern washing with Elbow Grease wash behavior
+Intern washed CAR Car_6 and made it Clean
+Intern washing with Elbow Grease wash behavior
+Intern washed MOTORCYCLE Motorcycle_8 and made it Clean
+Vehicle also became broken from being washed
+Intern washing with Chemical wash behavior
+Intern washed LIMO Limo_12 and made it Clean
+Intern washing with Chemical wash behavior
+Intern washed HYBRID Hybrid_8 and made it Sparkling (earned $25 bonus)
+Intern washing with Detailed wash behavior
+Level of cleanliness did not change...
+Intern washing with Detailed wash behavior
+Level of cleanliness did not change...
+Repairing at FNCD North...
+All vehicles are repaired
+Repairing at FNCD South...
+Mechanic fixed Broken LIMO Limo_12 and made it Used (earned $45 bonus)
+Mechanic fixed Used LIMO Mechanic_5 and made it Like New (earned $45 bonus)
+All vehicles are repaired
+Selling at FNCD North...
+Selling at FNCD South...
+Closing at FNCD North...
+Current working employees are: 
+Mechanic_2, worked 16 days, earned $4100
+Intern_0, worked 16 days, earned $3880
+Intern_1, worked 16 days, earned $2660
+Salesperson_0, worked 16 days, earned $4165
+Salesperson_1, worked 16 days, earned $4165
+Salesperson_2, worked 16 days, earned $4055
+Intern_2, worked 16 days, earned $1835
+Intern_7, worked 14 days, earned $1425
+Intern_11, worked 7 days, earned $765
+Driver_0, worked 16 days, earned $30
+Driver_1, worked 16 days, earned $40
+Driver_8, worked 2 days, earned $0
+Departed employees are: 
+Current inventory is: 
+Vehicle - MonsterTruck_0, Like New, Clean, Saleprice - $40382
+Vehicle - MonsterTruck_1, Like New, Clean, Saleprice - $57576
+Vehicle - MonsterTruck_2, Like New, Clean, Saleprice - $66911
+Vehicle - MonsterTruck_3, Like New, Sparkling, Saleprice - $54125
+Vehicle - MonsterTruck_4, Like New, Clean, Saleprice - $68686
+Vehicle - MonsterTruck_12, Like New, Clean, Saleprice - $112672
+Vehicle - Motorcycle_0, Like New, Clean, Saleprice - $28750
+Vehicle - Motorcycle_1, Like New, Clean, Saleprice - $56588
+Vehicle - Motorcycle_2, Like New, Sparkling, Saleprice - $118170
+Vehicle - Motorcycle_3, Like New, Clean, Saleprice - $69055
+Vehicle - Motorcycle_5, Like New, Clean, Saleprice - $129150
+Vehicle - Motorcycle_14, Like New, Clean, Saleprice - $26510
+Vehicle - PerformanceCar_0, Like New, Clean, Saleprice - $59940
+Vehicle - PerformanceCar_1, Like New, Clean, Saleprice - $155150
+Vehicle - PerformanceCar_2, Like New, Sparkling, Saleprice - $88617
+Vehicle - PerformanceCar_3, Like New, Clean, Saleprice - $70437
+Vehicle - PerformanceCar_4, Like New, Clean, Saleprice - $72656
+Vehicle - PerformanceCar_5, Like New, Clean, Saleprice - $143898
+Vehicle - Pickup_0, Like New, Sparkling, Saleprice - $84820
+Vehicle - Pickup_1, Like New, Clean, Saleprice - $186791
+Vehicle - Pickup_2, Like New, Clean, Saleprice - $25965
+Vehicle - Pickup_3, Like New, Clean, Saleprice - $25522
+Vehicle - Pickup_4, Like New, Clean, Saleprice - $87262
+Vehicle - Pickup_12, Like New, Clean, Saleprice - $77407
+Vehicle - Car_0, Like New, Clean, Saleprice - $31698
+Vehicle - Car_1, Like New, Clean, Saleprice - $60356
+Vehicle - Car_2, Like New, Clean, Saleprice - $48717
+Vehicle - Car_3, Like New, Sparkling, Saleprice - $44437
+Vehicle - Car_4, Like New, Clean, Saleprice - $49462
+Vehicle - Car_16, Like New, Clean, Saleprice - $32347
+Vehicle - ElectricCar_0, Like New, Clean, Saleprice - $85297
+Vehicle - ElectricCar_1, Like New, Sparkling, Saleprice - $59396
+Vehicle - ElectricCar_2, Like New, Clean, Saleprice - $25024
+Vehicle - ElectricCar_3, Like New, Clean, Saleprice - $91687
+Vehicle - ElectricCar_4, Like New, Sparkling, Saleprice - $98682
+Vehicle - ElectricCar_13, Like New, Clean, Saleprice - $74885
+Vehicle - Hybrid_0, Like New, Clean, Saleprice - $89564
+Vehicle - Hybrid_1, Like New, Sparkling, Saleprice - $81994
+Vehicle - Hybrid_2, Like New, Clean, Saleprice - $182600
+Vehicle - Hybrid_3, Like New, Clean, Saleprice - $125343
+Vehicle - Hybrid_4, Like New, Sparkling, Saleprice - $122895
+Vehicle - Hybrid_5, Like New, Clean, Saleprice - $113675
+Vehicle - SemiTruck_0, Like New, Clean, Saleprice - $165438
+Vehicle - SemiTruck_1, Like New, Clean, Saleprice - $86102
+Vehicle - SemiTruck_2, Like New, Clean, Saleprice - $111370
+Vehicle - SemiTruck_3, Like New, Clean, Saleprice - $93532
+Vehicle - SemiTruck_4, Like New, Clean, Saleprice - $101727
+Vehicle - SemiTruck_5, Like New, Clean, Saleprice - $93520
+Vehicle - Limo_0, Like New, Clean, Saleprice - $301308
+Vehicle - Limo_1, Like New, Clean, Saleprice - $125662
+Vehicle - Limo_2, Like New, Sparkling, Saleprice - $200302
+Vehicle - Limo_3, Like New, Clean, Saleprice - $194857
+Vehicle - Limo_4, Like New, Clean, Saleprice - $248970
+Vehicle - Limo_5, Like New, Clean, Saleprice - $138002
+Closing at FNCD South...
+Current working employees are: 
+Mechanic_5, worked 16 days, earned $4140
+Intern_6, worked 15 days, earned $3165
+Intern_9, worked 13 days, earned $2300
+Salesperson_5, worked 16 days, earned $4150
+Intern_4, worked 16 days, earned $3905
+Intern_8, worked 14 days, earned $2515
+Intern_10, worked 10 days, earned $1000
+Intern_12, worked 7 days, earned $740
+Intern_13, worked 7 days, earned $810
+Driver_4, worked 16 days, earned $70
+Driver_5, worked 16 days, earned $40
+Driver_9, worked 2 days, earned $0
+Departed employees are: 
+Current inventory is: 
+Vehicle - MonsterTruck_6, Like New, Clean, Saleprice - $53261
+Vehicle - MonsterTruck_7, Like New, Clean, Saleprice - $39391
+Vehicle - MonsterTruck_8, Like New, Clean, Saleprice - $104968
+Vehicle - MonsterTruck_9, Like New, Clean, Saleprice - $35932
+Vehicle - MonsterTruck_10, Like New, Sparkling, Saleprice - $52554
+Vehicle - MonsterTruck_11, Like New, Clean, Saleprice - $94755
+Vehicle - Motorcycle_6, Like New, Clean, Saleprice - $187546
+Vehicle - Motorcycle_7, Like New, Clean, Saleprice - $124767
+Vehicle - Motorcycle_8, Like New, Like New, Saleprice - $92306
+Vehicle - Motorcycle_9, Like New, Clean, Saleprice - $102806
+Vehicle - Motorcycle_10, Like New, Clean, Saleprice - $130286
+Vehicle - Motorcycle_11, Like New, Clean, Saleprice - $148650
+Vehicle - PerformanceCar_6, Like New, Clean, Saleprice - $92925
+Vehicle - PerformanceCar_7, Like New, Sparkling, Saleprice - $101493
+Vehicle - PerformanceCar_8, Like New, Clean, Saleprice - $44344
+Vehicle - PerformanceCar_9, Like New, Like New, Saleprice - $63310
+Vehicle - PerformanceCar_10, Like New, Clean, Saleprice - $91412
+Vehicle - PerformanceCar_11, Like New, Clean, Saleprice - $58578
+Vehicle - Pickup_6, Like New, Clean, Saleprice - $66336
+Vehicle - Pickup_7, Like New, Clean, Saleprice - $24300
+Vehicle - Pickup_8, Like New, Sparkling, Saleprice - $86342
+Vehicle - Pickup_9, Like New, Sparkling, Saleprice - $36886
+Vehicle - Pickup_10, Like New, Clean, Saleprice - $41546
+Vehicle - Pickup_11, Like New, Clean, Saleprice - $70766
+Vehicle - Car_6, Like New, Clean, Saleprice - $69341
+Vehicle - Car_7, Like New, Sparkling, Saleprice - $46762
+Vehicle - Car_8, Like New, Clean, Saleprice - $21234
+Vehicle - Car_9, Like New, Clean, Saleprice - $59538
+Vehicle - Car_10, Like New, Sparkling, Saleprice - $65793
+Vehicle - Car_15, Like New, Clean, Saleprice - $26737
+Vehicle - ElectricCar_6, Like New, Clean, Saleprice - $32216
+Vehicle - ElectricCar_7, Like New, Clean, Saleprice - $80405
+Vehicle - ElectricCar_8, Like New, Clean, Saleprice - $35020
+Vehicle - ElectricCar_9, Like New, Sparkling, Saleprice - $65572
+Vehicle - ElectricCar_10, Like New, Clean, Saleprice - $65416
+Vehicle - ElectricCar_12, Like New, Clean, Saleprice - $53716
+Vehicle - Hybrid_6, Like New, Clean, Saleprice - $186191
+Vehicle - Hybrid_7, Like New, Clean, Saleprice - $63368
+Vehicle - Hybrid_8, Like New, Sparkling, Saleprice - $60550
+Vehicle - Hybrid_9, Like New, Clean, Saleprice - $66885
+Vehicle - Hybrid_10, Like New, Clean, Saleprice - $131268
+Vehicle - Hybrid_12, Like New, Clean, Saleprice - $148826
+Vehicle - SemiTruck_6, Like New, Clean, Saleprice - $187410
+Vehicle - SemiTruck_7, Like New, Clean, Saleprice - $329483
+Vehicle - SemiTruck_8, Like New, Clean, Saleprice - $83704
+Vehicle - SemiTruck_9, Like New, Clean, Saleprice - $181357
+Vehicle - SemiTruck_10, Like New, Clean, Saleprice - $92586
+Vehicle - SemiTruck_13, Like New, Sparkling, Saleprice - $85540
+Vehicle - Limo_6, Like New, Clean, Saleprice - $357401
+Vehicle - Limo_7, Like New, Sparkling, Saleprice - $128067
+Vehicle - Limo_8, Like New, Clean, Saleprice - $204875
+Vehicle - Limo_9, Like New, Clean, Saleprice - $130836
+Vehicle - Limo_10, Like New, Sparkling, Saleprice - $139838
+Vehicle - Limo_12, Like New, Dirty, Saleprice - $319533
